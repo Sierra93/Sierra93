@@ -11,7 +11,7 @@
 HTML, CSS, SCSS, Bootstrap, Webpack или Gulp или Grunt, jQuery, JS (es5, es6), Vue.js. <br>
 
 <strong>Back-end: </strong> <br>
-C#, ASP.NET Web API, LINQ, EntityFramework Core, Dapper, SqlKata.
+C#, ASP.NET Web API, ADO.NET, LINQ, EntityFramework Core, Dapper, SqlKata.
 
 <strong>БД: </strong> <br>
 SQL Server, Postgres.
