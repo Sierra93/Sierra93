@@ -8,7 +8,7 @@
 
 # Стек технологий, который я использую в работе:
 <strong>Front-end: </strong> <br>
-HTML, CSS, SCSS, Bootstrap, Webpack или Gulp или Grunt, jQuery, JS (es5, se6), Vue.js. <br>
+HTML, CSS, SCSS, Bootstrap, Webpack или Gulp или Grunt, jQuery, JS (es5, es6), Vue.js. <br>
 
 <strong>Back-end: </strong> <br>
 C#, ASP.NET Web API, LINQ, EntityFramework Core, Dapper, SqlKata.
