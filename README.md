@@ -38,4 +38,4 @@ Unit-tests и/или Нагрузочное тестирование.
 Autofac
 
 <strong>IDE: </strong> <br>
-VS Code, VS 2019.
+VS Code, VS 2019 + ReSharper.
