@@ -31,8 +31,8 @@ Apache или Nginx.
 <strong>Тестирование: </strong> <br>
 Postman и/или Swagger.
 
-<strong>Автодокументирование API: </strong> <br>
-Swagger
+<strong>Автодокументирование REST API: </strong> <br>
+Спецификации OpenAPI.
 
 <strong>Типы тестов: </strong> <br>
 Unit-tests и/или Нагрузочное тестирование.
