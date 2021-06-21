@@ -52,4 +52,4 @@ VS Code, VS 2019 + ReSharper.
 Для управления разработкой проектов предпочитаю работать по Agile (Kanban). Умею работать также в Trello, JIRA. В своих проектах использую app.clickup.com
 
 <strong>Хранение кода: </strong> <br>
-GitHub, Bitbucket.
+GitHub, Bitbucket, Azure Repos.
