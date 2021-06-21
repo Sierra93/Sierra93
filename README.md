@@ -1,12 +1,12 @@
 # Обо мне
 Здравствуйте. Я Full-stack Middle .NET Developer с фокусом на Back-end. Опыт в разработке более 5 лет. Специализируюсь на разработке веб-приложений, клиент-серверных и мобильных приложений.
 
-## Как со мной связаться:
+# Как со мной связаться:
 Я в WhatsApp: 8 985-683-80-46.<br>
 Я в Telegram: @sierra_93.<br>
 Я в ВК: https://vk.com/sierrra
 
-<strong>На чем пишу приложения: </strong> <br>
+# На чем пишу приложения:
 Веб-приложения пишу на ASP.NET Core (MVC/Web API). <br>
 Клиент-серверные пишу на WPF. <br>
 Мобильные пишу на Xamarin.
@@ -47,3 +47,9 @@ Autofac
 
 <strong>IDE: </strong> <br>
 VS Code, VS 2019 + ReSharper.
+
+<strong>Управление разработкой проектов: </strong> <br>
+Для управления разработкой проектов предпочитаю работать по Agile (Kanban). Умею работать также в Trello, JIRA. В своих проектах использую app.clickup.com
+
+<strong>Хранение кода: </strong> <br>
+GitHub, Bitbucket.
