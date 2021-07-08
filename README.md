@@ -13,7 +13,7 @@
 
 # Стек технологий, который я использую в работе:
 <strong>Front-end: </strong> <br>
-HTML, CSS, SCSS, Bootstrap, Webpack, jQuery, JS (es5, es6), Vue.js. <br>
+HTML, CSS, SCSS, Bootstrap, Webpack, jQuery, JavaScript (es5, es6), TypeScript, Angular, Vue. <br>
 
 <strong>Back-end: </strong> <br>
 C#, ASP.NET Core MVC, ASP.NET Core Web API, ADO.NET, LINQ, EntityFramework Core, Dapper, SqlKata.
