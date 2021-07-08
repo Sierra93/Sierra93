@@ -22,7 +22,7 @@ C#, ASP.NET Core MVC, ASP.NET Core Web API, ADO.NET, LINQ, EntityFramework Core,
 EF Core Migrations и/или Liquibase.
 
 <strong>БД: </strong> <br>
-SQL Server, Postgres.
+MSSQL, Postgres.
 
 <strong>Деплой: </strong> <br>
 TeamCity.
