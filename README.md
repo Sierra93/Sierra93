@@ -48,8 +48,8 @@ Autofac
 <strong>IDE: </strong> <br>
 VS Code, VS 2019 + ReSharper.
 
-<strong>Управление разработкой проектов: </strong> <br>
-Для управления разработкой проектов предпочитаю работать по Agile (Kanban). Умею работать также в Trello, JIRA, app.clickup.com.
+<strong>Таск-трекер: </strong> <br>
+Разработка по Agile (Kanban). Умею работать по Trello, JIRA, app.clickup.com.
 
 <strong>Хранение кода: </strong> <br>
 GitHub, Bitbucket, Azure Repos.
