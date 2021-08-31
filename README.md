@@ -24,7 +24,7 @@ EF Core Migrations и/или Liquibase.
 <strong>БД: </strong> <br>
 MSSQL, Postgres.
 
-<strong>Деплой: </strong> <br>
+<strong>CI/CD: </strong> <br>
 TeamCity.
 
 <strong>OC: </strong> <br>
