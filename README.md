@@ -28,7 +28,7 @@ MSSQL, Postgres.
 TeamCity.
 
 <strong>OC: </strong> <br>
-Windows, Linux (Ubuntu).
+Windows, Linux (Ubuntu, CentOS).
 
 <strong>Веб-сервер: </strong> <br>
 Apache или Nginx.
