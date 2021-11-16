@@ -27,6 +27,9 @@ MSSQL, Postgres.
 <strong>CI/CD: </strong> <br>
 TeamCity.
 
+<strong>Работа с очередями сообщений:</strong> <br>
+RabbitMQ + SignalR.
+
 <strong>OC: </strong> <br>
 Windows, Linux (Ubuntu, CentOS).
 
@@ -43,7 +46,7 @@ Postman и/или Swagger.
 Unit-tests и/или Интеграционное тестирование.
 
 <strong>DI: </strong> <br>
-Autofac
+Autofac.
 
 <strong>IDE: </strong> <br>
 VS Code, VS 2019 + ReSharper.
