@@ -49,7 +49,7 @@ Unit-tests и/или Интеграционное тестирование.
 Autofac.
 
 <strong>IDE: </strong> <br>
-VS Code, VS 2019 + ReSharper.
+VS Code, VS 2019 + ReSharper, JetBrains Rider 2021.
 
 <strong>Таск-трекер: </strong> <br>
 Разработка по Agile (Kanban). Умею работать по Trello, JIRA, app.clickup.com.
