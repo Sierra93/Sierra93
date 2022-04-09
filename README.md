@@ -43,7 +43,7 @@ Postman и/или Swagger.
 Спецификации OpenAPI.
 
 <strong>Типы тестов: </strong> <br>
-Unit-tests и/или Интеграционное тестирование.
+Unit-tests и/или Интеграционное тестирование. NUnit, MSTest. 
 
 <strong>DI: </strong> <br>
 Autofac.
