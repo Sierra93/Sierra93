@@ -56,3 +56,7 @@ VS Code, VS 2019 + ReSharper, JetBrains Rider 2021 + ReSharper.
 
 <strong>Хранение кода: </strong> <br>
 GitHub, Bitbucket, Azure Repos.
+
+# Собственные проекты коммерческой разработки:
+Список собственных коммерческих проектов вы можете посмотреть в организации Leoka Group - https://github.com/LeokaGroup
+Компания находится на стадии формирования. Позже вы сможете увидеть гораздо большее)
