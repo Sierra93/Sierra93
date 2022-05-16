@@ -52,7 +52,7 @@ Autofac.
 VS Code, VS 2019 + ReSharper, VS 2022 + ReSharper, JetBrains Rider 2022 + ReSharper.
 
 <strong>Таск-трекер: </strong> <br>
-Разработка по Agile (Kanban). Умею работать по Trello, JIRA, app.clickup.com.
+Разработка по Agile (Kanban). Умею работать по Trello, JIRA, YouTrack, app.clickup.com.
 
 <strong>Хранение кода: </strong> <br>
 GitHub, Bitbucket, Azure Repos.
