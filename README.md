@@ -21,8 +21,11 @@ C#, ASP.NET Core MVC, ASP.NET Core Web API, ADO.NET, LINQ, EntityFramework Core,
 <strong>Миграции БД: </strong> <br>
 EF Core Migrations и/или Liquibase.
 
-<strong>БД: </strong> <br>
+<strong>SQL: </strong> <br>
 MSSQL, Postgres.
+
+<strong>NoSQL: </strong> <br>
+MongoDB, Redis.
 
 <strong>CI/CD: </strong> <br>
 TeamCity.
