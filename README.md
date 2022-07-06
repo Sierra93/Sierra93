@@ -25,7 +25,7 @@ EF Core Migrations и/или Liquibase.
 MSSQL, Postgres.
 
 <strong>NoSQL: </strong> <br>
-MongoDB, Redis.
+Redis.
 
 <strong>CI/CD: </strong> <br>
 TeamCity.
