@@ -9,7 +9,10 @@
 # На чем пишу приложения:
 Веб-приложения пишу на ASP.NET Core (MVC/Web API). <br>
 Клиент-серверные пишу на WPF. <br>
-Мобильные пишу на Xamarin.
+Мобильные пишу на Xamarin, .NET MAUI.
+
+# С какими версиями C# и .NET работал:
+C# 7.3, C# 9, C# 10, .NET Framework 4.8, .NET Core 2.1, .NET Core 3.1, .NET 5, .NET 6, .NET 7 (в перспективе).
 
 # Стек технологий, который я использую в работе:
 <strong>Front-end: </strong> <br>
