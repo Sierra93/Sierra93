@@ -52,7 +52,7 @@ Unit-tests и/или Интеграционное тестирование. NUni
 Autofac.
 
 <strong>IDE: </strong> <br>
-VS Code, VS 2019 + ReSharper, VS 2022 + ReSharper, JetBrains Rider 2022 + ReSharper.
+VS Code, VS 2017-2019 + ReSharper, JetBrains Rider 2022 + ReSharper, DBeaver, SSMS 2012-2019, DataGrip 2022.
 
 <strong>Таск-трекер: </strong> <br>
 Разработка по Agile (Kanban). Умею работать по Trello, JIRA, YouTrack, app.clickup.com.
