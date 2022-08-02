@@ -31,7 +31,10 @@ Redis.
 TeamCity.
 
 <strong>Работа с очередями сообщений:</strong> <br>
-RabbitMQ + SignalR.
+RabbitMQ.
+
+<strong>Real-time:</strong> <br>
+SignalR.
 
 <strong>OC: </strong> <br>
 Windows, Linux (Ubuntu, CentOS).
@@ -43,7 +46,7 @@ Apache или Nginx.
 Postman и/или Swagger.
 
 <strong>Автодокументирование REST API: </strong> <br>
-Спецификации OpenAPI.
+Спецификации OpenAPI (Swagger).
 
 <strong>Типы тестов: </strong> <br>
 Unit-tests и/или Интеграционное тестирование. NUnit, MSTest. 
@@ -58,7 +61,7 @@ VS Code, VS 2017-2019 + ReSharper, JetBrains Rider 2022 + ReSharper, DBeaver, SS
 Разработка по Agile (Kanban). Умею работать по Trello, JIRA, YouTrack, app.clickup.com.
 
 <strong>Хранение кода: </strong> <br>
-GitHub, Bitbucket, Azure Repos.
+GitHub, Bitbucket, GitLab, Azure Repos.
 
 # Проекты коммерческой разработки:
 Коммерческая разработка проекта Garant.Platform (на данный момент проект в поисках инвестиций). <br> <br>
