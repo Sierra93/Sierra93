@@ -1,5 +1,5 @@
 # Обо мне
-Здравствуйте. Я Middle C# Developer. Опыт в разработке более 6 лет. Специализируюсь на разработке веб-приложений, клиент-серверных и мобильных приложений.
+Здравствуйте. Я Middle C# Developer. Опыт в разработке более 7 лет. Специализируюсь на разработке веб-приложений, клиент-серверных и мобильных приложений.
 
 # Как со мной связаться:
 Я в WhatsApp: 8 985-683-80-46.<br>
@@ -36,7 +36,7 @@ TeamCity.
 <strong>Работа с очередями сообщений:</strong> <br>
 RabbitMQ.
 
-<strong>Real-time:</strong> <br>
+<strong>Real-time communications:</strong> <br>
 SignalR.
 
 <strong>OC: </strong> <br>
@@ -55,18 +55,18 @@ Postman и/или Swagger.
 Unit-tests и/или Интеграционное тестирование. NUnit, MSTest. 
 
 <strong>DI: </strong> <br>
-Autofac.
+Autofac, Unity Container.
 
 <strong>IDE: </strong> <br>
 VS Code, VS 2017-2019 + ReSharper, JetBrains Rider 2022 + ReSharper, DBeaver, SSMS 2012-2019, DataGrip 2022.
 
 <strong>Таск-трекер: </strong> <br>
-Разработка по Agile (Kanban). Умею работать по Trello, JIRA, YouTrack, app.clickup.com.
+Разработка по Agile (Kanban). Умею работать по Trello, JIRA, YouTrack, app.clickup.com, YouGile.
 
 <strong>Хранение кода: </strong> <br>
 GitHub, Bitbucket, GitLab, Azure Repos.
 
 # Проекты коммерческой разработки:
-Коммерческая разработка проекта Garant.Platform (на данный момент проект в поисках инвестиций). <br> <br>
+Коммерческая разработка проекта Garant.Platform. <br> <br>
 Список собственных коммерческих проектов вы можете посмотреть в организации Leoka Group - https://github.com/LeokaGroup
 Компания находится на стадии формирования. Позже вы сможете увидеть гораздо большее ;)
