@@ -3,7 +3,7 @@
 
 # Как со мной связаться:
 Я в WhatsApp: 8 985-683-80-46.<br>
-Я в Telegram: @sierra_93.<br>
+Я в Telegram: https://t.me/oyarsa_93.<br>
 Я в ВК: https://vk.com/oyarsa
 
 # На чем пишу приложения:
