@@ -36,6 +36,12 @@ TeamCity.
 <strong>Работа с очередями сообщений:</strong> <br>
 RabbitMQ.
 
+<strong>Поиск в памяти: Lucene.NET</strong> <br>
+
+<strong>Хранение логов и метрики: ClickHouse.</strong> <br>
+
+<strong>Мониторинг: Grafana, Kibana.</strong> <br>
+
 <strong>Real-time communications:</strong> <br>
 SignalR.
 
