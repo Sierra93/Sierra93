@@ -25,7 +25,7 @@ C#, ASP.NET Core MVC, ASP.NET Core Web API, ADO.NET, LINQ, EntityFramework Core,
 EF Core Migrations и/или Liquibase.
 
 <strong>SQL: </strong> <br>
-MSSQL, Postgres.
+MSSQL, Postgres, MySQL.
 
 <strong>NoSQL: </strong> <br>
 Redis.
