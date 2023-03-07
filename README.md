@@ -22,7 +22,10 @@ C# 7.3, C# 9, C# 10, .NET Framework 4.6, 4.7, 4.8, .NET Core 2.1, .NET Core 3.1,
 HTML, CSS, SCSS, Bootstrap, PrimeNG, Webpack, jQuery, JavaScript (es5, es6), TypeScript, Angular, Vue. <br>
 
 <strong>Back-end: </strong> <br>
-C#, ASP.NET Core MVC, ASP.NET Core Web API, ADO.NET, LINQ, EntityFramework Core, Dapper, SqlKata.
+C#, ASP.NET Core MVC, ASP.NET Core Web API, ADO.NET.
+
+<strong>ORM: </strong> <br>
+LINQ, EntityFramework Core, Dapper, SqlKata, PetaPoco.
 
 <strong>Миграции БД: </strong> <br>
 EF Core Migrations и/или Liquibase.
@@ -39,11 +42,14 @@ TeamCity.
 <strong>Работа с очередями сообщений:</strong> <br>
 RabbitMQ.
 
-<strong>Поиск в памяти: Lucene.NET</strong> <br>
+<strong>Поиск в памяти:</strong> <br>
+Lucene.NET.
 
-<strong>Хранение логов и метрики: ClickHouse.</strong> <br>
+<strong>Хранение логов и метрики:</strong> <br>
+ClickHouse.
 
-<strong>Мониторинг: Grafana, Kibana.</strong> <br>
+<strong>Мониторинг:</strong> <br>
+Grafana, Kibana.
 
 <strong>Real-time communications:</strong> <br>
 SignalR.
