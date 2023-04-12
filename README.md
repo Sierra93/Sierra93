@@ -55,6 +55,9 @@ Grafana, Kibana.
 <strong>Real-time communications:</strong> <br>
 SignalR.
 
+<strong>Работа в фоне:</strong> <br>
+Worker Services (используя BackgroundService или Quartz).
+
 <strong>OC: </strong> <br>
 Windows, Linux (Ubuntu, CentOS).
 
