@@ -56,7 +56,7 @@ Grafana, Kibana.
 SignalR.
 
 <strong>Работа в фоне:</strong> <br>
-Worker Services (используя BackgroundService или Quartz).
+Worker Services (используя BackgroundService).
 
 <strong>OC: </strong> <br>
 Windows, Linux (Ubuntu, CentOS).
