@@ -18,6 +18,9 @@ C# 7.3, C# 9, C# 10, .NET Framework 4.6, 4.7, 4.8, .NET Core 2.1, .NET Core 3.1,
 # С какими типами архитектуры работал:
 Монолит, модульная, SOA.
 
+# Что использую для проектирования БД:
+MySQL Workbench и draw.io.
+
 # Стек технологий, который я использую в работе:
 <strong>Front-end: </strong> <br>
 HTML, CSS, SCSS, Bootstrap, PrimeNG, Webpack, jQuery, JavaScript (es5, es6), TypeScript, Angular, Vue. <br>
