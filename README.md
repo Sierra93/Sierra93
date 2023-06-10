@@ -59,7 +59,7 @@ Grafana, Kibana.
 SignalR.
 
 <strong>Работа в фоне:</strong> <br>
-Worker Services (используя BackgroundService).
+Обычно добавляю джобы в Worker Services (используя Quartz или BackgroundService).
 
 <strong>OC: </strong> <br>
 Windows, Linux (Ubuntu, CentOS).
