@@ -41,7 +41,9 @@ MSSQL, Postgres, MySQL.
 Redis.
 
 <strong>CI/CD: </strong> <br>
-TeamCity.
+TeamCity, kubernetes. Также изучаю и практикую подходы как по отдельности так и вместе (в этом подходе TeamCity находится между репозиторием и кубером и выступает просто в роли CI).
+
+<strong>Контейнеризация: Docker, Docker Compose.</strong> <br>
 
 <strong>Работа с очередями сообщений:</strong> <br>
 RabbitMQ.
