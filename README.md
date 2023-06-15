@@ -46,7 +46,7 @@ TeamCity, Kubernetes. Также изучаю и практикую подход
 <strong>Контейнеризация: Docker, Docker Compose.</strong> <br>
 
 <strong>Работа с очередями сообщений:</strong> <br>
-RabbitMQ.
+RabbitMQ, Apache Kafka.
 
 <strong>Поиск в памяти:</strong> <br>
 Lucene.NET.
