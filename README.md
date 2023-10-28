@@ -35,7 +35,7 @@ C#, ASP.NET Core MVC, ASP.NET Core Web API, ADO.NET.
 LINQ, EntityFramework Core, Dapper, SqlKata, PetaPoco.
 
 <strong>Миграции БД: </strong> <br>
-EF Core Migrations и/или Liquibase.
+EF Core Migrations, Liquibase, DbUp (предпочитаю).
 
 <strong>SQL: </strong> <br>
 MSSQL, Postgres, MySQL.
