@@ -2,7 +2,8 @@
 Здравствуйте! <br>
 Я Senior C# Developer и основатель стартапа Leoka Estetica (https://leoka-estetica.ru). Опыт в разработке более 8 лет. Специализируюсь на разработке веб-приложений, клиент-серверных и мобильных приложений.<br>
 Telegram-канал платформы для бизнеса:
-https://t.me/leoka_estetica
+https://t.me/leoka_estetica<br>
+Умею работать с ИИ. Добавил в свой продукт ИИ - написал нейросеть на ML.NET обученную по алгоритму текстовой классификации для базы знаний (чтобы отвечала на вопросы и помогала как ассистент в проекте). Это лишь одна из ее функций в продукте.
 
 # Как со мной связаться:
 Я в WhatsApp: 8 985-683-80-46.<br>
@@ -15,10 +16,10 @@ https://t.me/leoka_estetica
 Мобильные пишу на Xamarin, .NET MAUI.
 
 # С какими версиями C# и .NET работал:
-C# 7.3, C# 9, C# 10, .NET Framework 4.6, 4.7, 4.8, .NET Core 2.1, .NET Core 3.1, .NET 5, .NET 6, .NET 7 (в перспективе).
+C# 7.3, C# 9, C# 10, .NET Framework 4.6, 4.7, 4.8, .NET Core 2.1, .NET Core 3.1, .NET 5, .NET 6, .NET 8.
 
 # С какими типами архитектуры работал:
-Монолит, модульная, SOA, микросервисная (развиваюсь в ней на проекте от Газпромнефть).
+Монолит, SOA, MSA (микросервисная), гибридная (тут SOA + MSA).
 
 # Что использую для проектирования БД:
 MySQL Workbench и draw.io.
@@ -35,6 +36,9 @@ HTML, CSS, SCSS, Bootstrap, PrimeNG, Webpack, jQuery, JavaScript (es5, es6), Typ
 
 <strong>Back-end: </strong> <br>
 C#, ASP.NET Core MVC, ASP.NET Core Web API, ADO.NET.
+
+<strong>ИИ: </strong> <br>
+ML.NET.
 
 <strong>ORM: </strong> <br>
 LINQ, EntityFramework Core, Dapper, SqlKata, PetaPoco.
