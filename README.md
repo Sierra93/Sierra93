@@ -54,7 +54,7 @@ EF Core Migrations, Liquibase, DbUp (предпочитаю).
 MSSQL, Postgres, MySQL.
 
 <strong>NoSQL: </strong> <br>
-Redis.
+Redis, MongoDB.
 
 <strong>CI/CD: </strong> <br>
 TeamCity, Kubernetes. Также изучаю и практикую подходы как по отдельности так и вместе (в этом подходе TeamCity находится между репозиторием и кубером и выступает просто в роли CI).
