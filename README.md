@@ -1,6 +1,6 @@
 # Обо мне
 Здравствуйте! <br>
-Я Senior C# Developer и основатель стартапа Leoka Estetica (https://leoka-estetica.ru). 
+Я Senior C# Developer, основатель стартапа и CTO в Leoka Estetica (https://leoka-estetica.ru). 
 
 Опыт в разработке более 8 лет. Специализируюсь на разработке веб-приложений, клиент-серверных и мобильных приложений.<br>
 
