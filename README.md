@@ -66,7 +66,7 @@ MSSQL, Postgres, MySQL.
 Redis, MongoDB.
 
 <strong>CI/CD: </strong> <br>
-TeamCity, Kubernetes. Также изучаю и практикую подходы как по отдельности так и вместе (в этом подходе TeamCity находится между репозиторием и кубером и выступает просто в роли CI).
+TeamCity, Kubernetes (пока не было возможность практики из-за высокой цены на него, но в будущем включая свои продукты буду развивать в нем опыт, т.к. это инструмент корпораций).
 
 <strong>Контейнеризация: Docker, Docker Compose.</strong> <br>
 
@@ -78,6 +78,8 @@ Lucene.NET.
 
 <strong>Хранение логов и метрики:</strong> <br>
 ClickHouse.
+Grafana.
+Loki.
 
 <strong>Мониторинг:</strong> <br>
 Grafana, Kibana.
