@@ -77,9 +77,8 @@ RabbitMQ, Apache Kafka.
 Lucene.NET.
 
 <strong>Хранение логов и метрики:</strong> <br>
-ClickHouse.
-Grafana.
-Loki.
+ClickHouse.<br/>
+Grafana и Loki (вместо ELK, т.к. гораздо дешевле по ресурсам и перфомансу).
 
 <strong>Мониторинг:</strong> <br>
 Grafana, Kibana.
