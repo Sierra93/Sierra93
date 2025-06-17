@@ -35,7 +35,7 @@ C# 7.3, C# 9, C# 10, .NET Framework 4.6, 4.7, 4.8, .NET Core 2.1, .NET Core 3.1,
 MySQL Workbench и draw.io.
 
 # Стек для кластера БД Postgres:
-Etcd, Patroni, Keepalived, HAProxy - обычно 1 мастер и 2 реплики. Но при необходимости конечно можно и больше сделать нод.
+Etcd, Patroni, Keepalived, HAProxy.
 
 # Какие книги читаю/читал:
 Герберт Шилдт (с него начинал изучение C#). <br>
